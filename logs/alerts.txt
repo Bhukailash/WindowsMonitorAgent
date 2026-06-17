@@ -1,0 +1,144 @@
+Whitelist/Blacklist Alert Log
+Scan Time: 2026-06-17 11:04:08.427014
+============================================================
+
+[MEDIUM] Unknown process: system idle process (PID:0) Path:N/A
+[MEDIUM] Unknown process:  (PID:140) Path:N/A
+[MEDIUM] Unknown process: lsaiso.exe (PID:1488) Path:C:\Windows\System32\LsaIso.exe
+[MEDIUM] Unknown process: wudfhost.exe (PID:1720) Path:C:\Windows\System32\WUDFHost.exe
+[MEDIUM] Unknown process: msedgewebview2.exe (PID:1760) Path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\149.0.4022.69\msedgewebview2.exe
+[MEDIUM] Unknown process: useroobebroker.exe (PID:2812) Path:C:\Windows\System32\oobe\UserOOBEBroker.exe
+[MEDIUM] Unknown process: openconsole.exe (PID:3120) Path:D:\VS CODE\Microsoft VS Code\6928394f91\resources\app\node_modules\node-pty\build\Release\conpty\OpenConsole.exe
+[MEDIUM] Unknown process: amdfendrsr.exe (PID:3284) Path:C:\Windows\System32\DriverStore\FileRepository\amdfendr.inf_amd64_987f8cede005f427\amdfendrsr.exe
+[MEDIUM] Unknown process: atiesrxx.exe (PID:3304) Path:C:\Windows\System32\DriverStore\FileRepository\u0419944.inf_amd64_e8cfc9b2346618e0\B419488\atiesrxx.exe
+[MEDIUM] Unknown process: smartscreen.exe (PID:3404) Path:C:\Windows\System32\smartscreen.exe
+[MEDIUM] Unknown process: amdow.exe (PID:3704) Path:C:\Program Files\WindowsApps\AdvancedMicroDevicesInc-2.AMDRadeonSoftware_10.25.10201.0_x64__0a9344xs7nr4m\radeonsoftware\amdow.exe
+[MEDIUM] Unknown process: audiodg.exe (PID:3764) Path:C:\Windows\System32\audiodg.exe
+[MEDIUM] Unknown process: applicationframehost.exe (PID:3812) Path:C:\Windows\System32\ApplicationFrameHost.exe
+[MEDIUM] Unknown process: widgets.exe (PID:3868) Path:C:\Program Files\WindowsApps\MicrosoftWindows.Client.WebExperience_526.11701.50.0_x64__cw5n1h2txyewy\Dashboard\Widgets.exe
+[MEDIUM] Unknown process: filesynchelper.exe (PID:3900) Path:C:\Program Files\Microsoft OneDrive\26.095.0519.0003\FileSyncHelper.exe
+[MEDIUM] Unknown process: memcompression (PID:3912) Path:MemCompression
+[MEDIUM] Unknown process: cncmd.exe (PID:3924) Path:C:\Program Files\WindowsApps\AdvancedMicroDevicesInc-2.AMDRadeonSoftware_10.25.10201.0_x64__0a9344xs7nr4m\radeonsoftware\cncmd.exe
+[MEDIUM] Unknown process: dashost.exe (PID:3988) Path:C:\Windows\System32\dasHost.exe
+[MEDIUM] Unknown process: shellexperiencehost.exe (PID:4160) Path:C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe
+[MEDIUM] Unknown process: dashost.exe (PID:4168) Path:C:\Windows\System32\dasHost.exe
+[MEDIUM] Unknown process: msedgewebview2.exe (PID:4288) Path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\149.0.4022.69\msedgewebview2.exe
+[MEDIUM] Unknown process: locator.exe (PID:4348) Path:C:\Windows\System32\Locator.exe
+[MEDIUM] Unknown process: lenovoutilityservice.exe (PID:4376) Path:C:\Windows\System32\DriverStore\FileRepository\lenovofnandfunctionkeys.inf_amd64_5e21bf389d23855a\LenovoUtilityService.exe
+[MEDIUM] Unknown process: servicehost.exe (PID:4540) Path:C:\Program Files\McAfee\WebAdvisor\servicehost.exe
+[MEDIUM] Unknown process: msedgewebview2.exe (PID:4772) Path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\149.0.4022.69\msedgewebview2.exe
+[MEDIUM] Unknown process: lenovovantageservice.exe (PID:4876) Path:C:\Program Files (x86)\Lenovo\VantageService\4.2601.31.0\LenovoVantageService.exe
+[MEDIUM] Unknown process: pet.exe (PID:4916) Path:C:\Users\BHUKAILASH\.vscode\extensions\ms-python.vscode-python-envs-1.34.0-win32-x64\python-env-tools\bin\pet.exe
+[MEDIUM] Unknown process: dax3api.exe (PID:5020) Path:C:\Windows\System32\DriverStore\FileRepository\dax3_swc_aposvc.inf_amd64_3a19d2a71a27e2b3\DAX3API.exe
+[MEDIUM] Unknown process: armsvc.exe (PID:5036) Path:C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\armsvc.exe
+[MEDIUM] Unknown process: elevoccontrolservice.exe (PID:5076) Path:C:\Windows\System32\ElevocInstallDriver\ElevocControlService.exe
+[MEDIUM] Unknown process: lnbitssvc.exe (PID:5108) Path:C:\Windows\System32\LNBITSSvc.exe
+[MEDIUM] Unknown process: mpdefendercoreservice.exe (PID:5192) Path:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26050.15-0\MpDefenderCoreService.exe
+[MEDIUM] Unknown process: mtkbtsvc.exe (PID:5284) Path:C:\Windows\System32\mtkbtsvc.exe
+[MEDIUM] Unknown process: rtkauduservice64.exe (PID:5292) Path:C:\Windows\System32\DriverStore\FileRepository\realtekservice.inf_amd64_9873da36e3c839c5\RtkAudUService64.exe
+[MEDIUM] Unknown process: ultraviewer_service.exe (PID:5312) Path:C:\Program Files (x86)\UltraViewer\UltraViewer_Service.exe
+[MEDIUM] Unknown process: mc-fw-host.exe (PID:5476) Path:C:\Program Files\McAfee\wps\1.39.160.1\mc-fw-host.exe
+[MEDIUM] Unknown process: mscopilot.exe (PID:5512) Path:C:\Program Files (x86)\Microsoft\Copilot\Application\mscopilot.exe
+[MEDIUM] Unknown process: lenovovantage-(genericmessagingaddin).exe (PID:5688) Path:C:\Program Files (x86)\Lenovo\VantageService\4.2601.31.0\LenovoVantage-(GenericMessagingAddin).exe
+[MEDIUM] Unknown process: msmpeng.exe (PID:5720) Path:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26050.15-0\MsMpEng.exe
+[MEDIUM] Unknown process: splunkd.exe (PID:5960) Path:C:\Program Files\Splunk\bin\splunkd.exe
+[MEDIUM] Unknown process: unsecapp.exe (PID:6732) Path:C:\Windows\System32\wbem\unsecapp.exe
+[MEDIUM] Unknown process: taskhostw.exe (PID:6940) Path:C:\Windows\System32\taskhostw.exe
+[MEDIUM] Unknown process: wps.exe (PID:7076) Path:C:\Users\BHUKAILASH\AppData\Local\Kingsoft\WPS Office\12.1.0.26880\office6\wps.exe
+[MEDIUM] Unknown process: openconsole.exe (PID:7080) Path:D:\VS CODE\Microsoft VS Code\6928394f91\resources\app\node_modules\node-pty\build\Release\conpty\OpenConsole.exe
+[MEDIUM] Unknown process: openconsole.exe (PID:7116) Path:D:\VS CODE\Microsoft VS Code\6928394f91\resources\app\node_modules\node-pty\build\Release\conpty\OpenConsole.exe
+[MEDIUM] Unknown process: wmiprvse.exe (PID:7456) Path:C:\Windows\System32\wbem\WmiPrvSE.exe
+[MEDIUM] Unknown process: fnhotkeyutility.exe (PID:7512) Path:C:\Windows\System32\DriverStore\FileRepository\lenovofnandfunctionkeys.inf_amd64_5e21bf389d23855a\FnHotkeyUtility.exe
+[MEDIUM] Unknown process: wlanext.exe (PID:7988) Path:C:\Windows\System32\wlanext.exe
+[MEDIUM] Unknown process: ctfmon.exe (PID:8036) Path:C:\Windows\System32\ctfmon.exe
+[MEDIUM] Unknown process: msedgewebview2.exe (PID:8044) Path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\149.0.4022.69\msedgewebview2.exe
+[MEDIUM] Unknown process: appprovisioningplugin.exe (PID:8056) Path:C:\ProgramData\Lenovo\Udc\Hosts\x64\AppProvisioningPlugin.exe
+[MEDIUM] Unknown process: searchindexer.exe (PID:8572) Path:C:\Windows\System32\SearchIndexer.exe
+[MEDIUM] Unknown process: aggregatorhost.exe (PID:8872) Path:C:\Windows\System32\AggregatorHost.exe
+[MEDIUM] Unknown process: ngciso.exe (PID:9096) Path:C:\Windows\System32\NgcIso.exe
+[MEDIUM] Unknown process: rtkauduservice64.exe (PID:9520) Path:C:\Windows\System32\DriverStore\FileRepository\realtekservice.inf_amd64_9873da36e3c839c5\RtkAudUService64.exe
+[MEDIUM] Unknown process: nissrv.exe (PID:10072) Path:C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26050.15-0\NisSrv.exe
+[MEDIUM] Unknown process: whatsapp.root.exe (PID:10416) Path:C:\Program Files\WindowsApps\5319275A.WhatsAppDesktop_2.2620.102.0_x64__cv1g1gvanyjgm\WhatsApp.Root.exe
+[MEDIUM] Unknown process: msedgewebview2.exe (PID:10616) Path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\149.0.4022.69\msedgewebview2.exe
+[MEDIUM] Unknown process: splunk-supervisor.exe (PID:11272) Path:C:\Program Files\Splunk\bin\splunk-supervisor.exe
+[MEDIUM] Unknown process: runtimebroker.exe (PID:11344) Path:C:\Windows\System32\RuntimeBroker.exe
+[MEDIUM] Unknown process: msedgewebview2.exe (PID:11404) Path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\149.0.4022.69\msedgewebview2.exe
+[MEDIUM] Unknown process: promecefpluginhost.exe (PID:11956) Path:C:\Users\BHUKAILASH\AppData\Local\Kingsoft\WPS Office\12.1.0.26880\office6\promecefpluginhost.exe
+[MEDIUM] Unknown process: unsecapp.exe (PID:12240) Path:C:\Windows\System32\wbem\unsecapp.exe
+[MEDIUM] Unknown process: textinputhost.exe (PID:12256) Path:C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe
+[MEDIUM] Unknown process: udclientservice.exe (PID:12340) Path:C:\Windows\System32\drivers\Lenovo\udc\Service\UDClientService.exe
+[MEDIUM] Unknown process: wmiprvse.exe (PID:13044) Path:C:\Windows\System32\wbem\WmiPrvSE.exe
+[MEDIUM] Unknown process: taskhostw.exe (PID:13076) Path:C:\Windows\System32\taskhostw.exe
+[MEDIUM] Unknown process: msedgewebview2.exe (PID:14272) Path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\149.0.4022.69\msedgewebview2.exe
+[MEDIUM] Unknown process: securityhealthsystray.exe (PID:14288) Path:C:\Windows\System32\SecurityHealthSystray.exe
+[MEDIUM] Unknown process: onedrive.exe (PID:14368) Path:C:\Program Files\Microsoft OneDrive\OneDrive.exe
+[MEDIUM] Unknown process: filecoauth.exe (PID:14464) Path:C:\Program Files\Microsoft OneDrive\26.095.0519.0003\FileCoAuth.exe
+[MEDIUM] Unknown process: lenovovantage-(vantagecoreaddin).exe (PID:14556) Path:C:\Program Files (x86)\Lenovo\VantageService\4.2601.31.0\LenovoVantage-(VantageCoreAddin).exe
+[MEDIUM] Unknown process: mc-fw-host.exe (PID:14640) Path:C:\Program Files\McAfee\wps\1.39.160.1\mc-fw-host.exe
+[MEDIUM] Unknown process: officeclicktorun.exe (PID:14736) Path:C:\Program Files\Common Files\microsoft shared\ClickToRun\OfficeClickToRun.exe
+[MEDIUM] Unknown process: rtkauduservice64.exe (PID:14748) Path:C:\Windows\System32\DriverStore\FileRepository\realtekservice.inf_amd64_9873da36e3c839c5\RtkAudUService64.exe
+[MEDIUM] Unknown process: mscopilot.exe (PID:14928) Path:C:\Program Files (x86)\Microsoft\Copilot\Application\mscopilot.exe
+[MEDIUM] Unknown process: msedgewebview2.exe (PID:15068) Path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\149.0.4022.69\msedgewebview2.exe
+[MEDIUM] Unknown process: backgroundtaskhost.exe (PID:15884) Path:C:\Windows\System32\backgroundTaskHost.exe
+[MEDIUM] Unknown process: openconsole.exe (PID:15908) Path:D:\VS CODE\Microsoft VS Code\6928394f91\resources\app\node_modules\node-pty\build\Release\conpty\OpenConsole.exe
+[MEDIUM] Unknown process: runtimebroker.exe (PID:15996) Path:C:\Windows\System32\RuntimeBroker.exe
+[MEDIUM] Unknown process: securityhealthservice.exe (PID:16424) Path:C:\Windows\System32\SecurityHealthService.exe
+[MEDIUM] Unknown process: appactions.exe (PID:16572) Path:C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\AppActions.exe
+[MEDIUM] Unknown process: runtimebroker.exe (PID:16940) Path:C:\Windows\System32\RuntimeBroker.exe
+[MEDIUM] Unknown process: ai.exe (PID:16964) Path:C:\Program Files\Microsoft Office\root\vfs\ProgramFilesCommonX64\Microsoft Shared\Office16\AI\ai.exe
+[MEDIUM] Unknown process: msedgewebview2.exe (PID:17240) Path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\149.0.4022.69\msedgewebview2.exe
+[MEDIUM] Unknown process: msedgewebview2.exe (PID:17532) Path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\149.0.4022.69\msedgewebview2.exe
+[MEDIUM] Unknown process: mscopilot.exe (PID:17756) Path:C:\Program Files (x86)\Microsoft\Copilot\Application\mscopilot.exe
+[MEDIUM] Unknown process: radeonsoftware.exe (PID:17836) Path:C:\Program Files\WindowsApps\AdvancedMicroDevicesInc-2.AMDRadeonSoftware_10.25.10201.0_x64__0a9344xs7nr4m\radeonsoftware\RadeonSoftware.exe
+[MEDIUM] Unknown process: openconsole.exe (PID:17860) Path:D:\VS CODE\Microsoft VS Code\6928394f91\resources\app\node_modules\node-pty\build\Release\conpty\OpenConsole.exe
+[MEDIUM] Unknown process: winword.exe (PID:18100) Path:C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE
+[MEDIUM] Unknown process: snippingtool.exe (PID:18336) Path:C:\Program Files\WindowsApps\Microsoft.ScreenSketch_11.2602.49.0_x64__8wekyb3d8bbwe\SnippingTool\SnippingTool.exe
+[MEDIUM] Unknown process: widgetservice.exe (PID:18472) Path:C:\Program Files\WindowsApps\Microsoft.WidgetsPlatformRuntime_1.6.19.0_x64__8wekyb3d8bbwe\WidgetService\WidgetService.exe
+[MEDIUM] Unknown process: splunkd.exe (PID:18604) Path:C:\Program Files\Splunk\bin\splunkd.exe
+[MEDIUM] Unknown process: mscopilot.exe (PID:18708) Path:C:\Program Files (x86)\Microsoft\Copilot\Application\mscopilot.exe
+[MEDIUM] Unknown process: crossdeviceresume.exe (PID:18736) Path:C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\CrossDeviceResume.exe
+[MEDIUM] Unknown process: ipc_broker.exe (PID:18752) Path:C:\Program Files\Splunk\var\run\supervisor\pkg-run\pkg-ipc_broker1755014732\ipc_broker.exe
+[MEDIUM] Unknown process: phoneexperiencehost.exe (PID:18840) Path:C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26042.99.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+[MEDIUM] Unknown process: python3.13.exe (PID:18944) Path:C:\Program Files\Splunk\bin\python3.13.exe
+[MEDIUM] Unknown process: msedgewebview2.exe (PID:19196) Path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\149.0.4022.69\msedgewebview2.exe
+[MEDIUM] Unknown process: fnhotkeycapslknumlk.exe (PID:19876) Path:C:\Windows\System32\DriverStore\FileRepository\lenovofnandfunctionkeys.inf_amd64_5e21bf389d23855a\FnHotkeyCapsLKNumLK.exe
+[MEDIUM] Unknown process: mscopilot.exe (PID:20224) Path:C:\Program Files (x86)\Microsoft\Copilot\Application\mscopilot.exe
+[MEDIUM] Unknown process: wmiapsrv.exe (PID:20284) Path:C:\Windows\System32\wbem\WmiApSrv.exe
+[MEDIUM] Unknown process: amdrssrcext.exe (PID:21156) Path:C:\Program Files\WindowsApps\AdvancedMicroDevicesInc-2.AMDRadeonSoftware_10.25.10201.0_x64__0a9344xs7nr4m\radeonsoftware\AMDRSSrcExt.exe
+[MEDIUM] Unknown process: openconsole.exe (PID:21188) Path:D:\VS CODE\Microsoft VS Code\6928394f91\resources\app\node_modules\node-pty\build\Release\conpty\OpenConsole.exe
+[MEDIUM] Unknown process: promecefpluginhost.exe (PID:21228) Path:C:\Users\BHUKAILASH\AppData\Local\Kingsoft\WPS Office\12.1.0.26880\office6\promecefpluginhost.exe
+[MEDIUM] Unknown process: snippingtool.exe (PID:21544) Path:C:\Program Files\WindowsApps\Microsoft.ScreenSketch_11.2602.49.0_x64__8wekyb3d8bbwe\SnippingTool\SnippingTool.exe
+[MEDIUM] Unknown process: messagingplugin.exe (PID:21748) Path:C:\ProgramData\Lenovo\Udc\Hosts\x64\MessagingPlugin.exe
+[MEDIUM] Unknown process: msedgewebview2.exe (PID:21952) Path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\149.0.4022.69\msedgewebview2.exe
+[MEDIUM] Unknown process: searchhost.exe (PID:22120) Path:C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe
+[MEDIUM] Unknown process: automodedetect.exe (PID:22176) Path:C:\Windows\System32\AutoModeDetect.exe
+[MEDIUM] Unknown process: pushnotificationslongrunningtask.exe (PID:22468) Path:C:\Program Files\WindowsApps\MicrosoftCorporationII.WinAppRuntime.Singleton_8002.1.3.0_x64__8wekyb3d8bbwe\PushNotificationsLongRunningTask.exe
+[MEDIUM] Unknown process: unsecapp.exe (PID:22532) Path:C:\Windows\System32\wbem\unsecapp.exe
+[MEDIUM] Unknown process: searchfilterhost.exe (PID:22688) Path:C:\Windows\System32\SearchFilterHost.exe
+[MEDIUM] Unknown process: searchprotocolhost.exe (PID:22832) Path:C:\Windows\System32\SearchProtocolHost.exe
+[MEDIUM] Unknown process: mc-neo-host.exe (PID:23040) Path:C:\ProgramData\McAfee\wps\content\neo-core\26.5.0.127\mc-neo-host.exe
+[MEDIUM] Unknown process: openconsole.exe (PID:23100) Path:D:\VS CODE\Microsoft VS Code\6928394f91\resources\app\node_modules\node-pty\build\Release\conpty\OpenConsole.exe
+[MEDIUM] Unknown process: searchfilterhost.exe (PID:23476) Path:C:\Windows\System32\SearchFilterHost.exe
+[MEDIUM] Unknown process: shellhost.exe (PID:23500) Path:C:\Windows\System32\ShellHost.exe
+[MEDIUM] Unknown process: amdrsserv.exe (PID:23884) Path:C:\Program Files\WindowsApps\AdvancedMicroDevicesInc-2.AMDRadeonSoftware_10.25.10201.0_x64__0a9344xs7nr4m\radeonsoftware\AMDRSServ.exe
+[MEDIUM] Unknown process: atieclxx.exe (PID:24036) Path:C:\Windows\System32\DriverStore\FileRepository\u0419944.inf_amd64_e8cfc9b2346618e0\B419488\atieclxx.exe
+[MEDIUM] Unknown process: msedgewebview2.exe (PID:24100) Path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\149.0.4022.69\msedgewebview2.exe
+[MEDIUM] Unknown process: wpscloudsvr.exe (PID:24276) Path:C:\Users\BHUKAILASH\AppData\Local\Kingsoft\WPS Office\12.1.0.26880\office6\wpscloudsvr.exe
+[MEDIUM] Unknown process: runtimebroker.exe (PID:24428) Path:C:\Windows\System32\RuntimeBroker.exe
+[MEDIUM] Unknown process: lenovovantage-(lenovomachinefixsystemaddin).exe (PID:24544) Path:C:\Program Files (x86)\Lenovo\VantageService\4.2601.31.0\LenovoVantage-(LenovoMachineFixSystemAddin).exe
+[MEDIUM] Unknown process: mc-wps-secdashboardservice.exe (PID:24624) Path:C:\Program Files\McAfee\wps\mok\mc-wps-secdashboardservice.exe
+[MEDIUM] Unknown process: uihost.exe (PID:24720) Path:C:\Program Files\McAfee\WebAdvisor\uihost.exe
+[MEDIUM] Unknown process: msedgewebview2.exe (PID:24900) Path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\149.0.4022.69\msedgewebview2.exe
+[MEDIUM] Unknown process: systemsettings.exe (PID:25016) Path:C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+[MEDIUM] Unknown process: msedgewebview2.exe (PID:25356) Path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\149.0.4022.69\msedgewebview2.exe
+[MEDIUM] Unknown process: msedgewebview2.exe (PID:25704) Path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\149.0.4022.69\msedgewebview2.exe
+[MEDIUM] Unknown process: msedgewebview2.exe (PID:25844) Path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\149.0.4022.69\msedgewebview2.exe
+[MEDIUM] Unknown process: runtimebroker.exe (PID:26044) Path:C:\Windows\System32\RuntimeBroker.exe
+[MEDIUM] Unknown process: startmenuexperiencehost.exe (PID:26804) Path:C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe
+[MEDIUM] Unknown process: runtimebroker.exe (PID:27004) Path:C:\Windows\System32\RuntimeBroker.exe
+[MEDIUM] Unknown process: msedgewebview2.exe (PID:27456) Path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\149.0.4022.69\msedgewebview2.exe
+[MEDIUM] Unknown process: crossdeviceservice.exe (PID:27508) Path:C:\Program Files\WindowsApps\MicrosoftWindows.CrossDevice_1.26042.110.0_x64__cw5n1h2txyewy\CrossDeviceService.exe
+[MEDIUM] Unknown process: msedgewebview2.exe (PID:27572) Path:C:\Program Files (x86)\Microsoft\EdgeWebView\Application\149.0.4022.69\msedgewebview2.exe
+
+Total alerts: 137
+Safe: 158 | Unknown: 137 | Danger: 0

@@ -1,0 +1,14 @@
+WINDOWS MONITOR AGENT — MASTER REPORT
+Scan Time : 2026-06-17 11:05:35.948307
+=================================================================
+
+SCAN STATISTICS:
+  Processes scanned : 292
+  Services scanned  : 283
+  Total alerts      : 1
+
+ALL ALERTS:
+-----------------------------------------------------------------
+[MEDIUM] [11:05:34] [MEMORY] High memory: Code.exe (PID:17096) — 518MB
+
+HIGH: 0 | MEDIUM: 1 | LOW: 0

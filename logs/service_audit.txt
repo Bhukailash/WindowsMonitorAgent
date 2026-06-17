@@ -1,0 +1,1144 @@
+Day 5 - Windows Service Audit Log
+Scan Time: 2026-06-17 11:04:26.863428
+Total Services: 283
+=================================================================
+
+Name   : AarSvc_6b163b87
+Status : Stopped
+Start  : Manual
+
+Name   : AdobeARMservice
+Status : Running
+Start  : Automatic
+
+Name   : ADPSvc
+Status : Stopped
+Start  : Manual
+
+Name   : ALG
+Status : Stopped
+Start  : Manual
+
+Name   : AMD Crash Defender Service
+Status : Running
+Start  : Automatic
+
+Name   : AMD External Events Utility
+Status : Running
+Start  : Automatic
+
+Name   : AppIDSvc
+Status : Stopped
+Start  : Manual
+
+Name   : Appinfo
+Status : Running
+Start  : Manual
+
+Name   : AppReadiness
+Status : Stopped
+Start  : Manual
+
+Name   : AppXSvc
+Status : Running
+Start  : Automatic
+
+Name   : ApxSvc
+Status : Stopped
+Start  : Manual
+
+Name   : AudioEndpointBuilder
+Status : Running
+Start  : Automatic
+
+Name   : Audiosrv
+Status : Running
+Start  : Automatic
+
+Name   : autotimesvc
+Status : Stopped
+Start  : Manual
+
+Name   : AxInstSV
+Status : Stopped
+Start  : Manual
+
+Name   : BcastDVRUserService_6b163b87
+Status : Stopped
+Start  : Manual
+
+Name   : BDESVC
+Status : Running
+Start  : Manual
+
+Name   : BFE
+Status : Running
+Start  : Automatic
+
+Name   : BITS
+Status : Running
+Start  : Automatic
+
+Name   : BluetoothUserService_6b163b87
+Status : Running
+Start  : Manual
+
+Name   : BrokerInfrastructure
+Status : Running
+Start  : Automatic
+
+Name   : BTAGService
+Status : Running
+Start  : Manual
+
+Name   : BthAvctpSvc
+Status : Running
+Start  : Manual
+
+Name   : bthserv
+Status : Running
+Start  : Manual
+
+Name   : camsvc
+Status : Running
+Start  : Automatic
+
+Name   : CaptureService_6b163b87
+Status : Stopped
+Start  : Manual
+
+Name   : cbdhsvc_6b163b87
+Status : Running
+Start  : Automatic
+
+Name   : CDPSvc
+Status : Running
+Start  : Automatic
+
+Name   : CDPUserSvc_6b163b87
+Status : Running
+Start  : Automatic
+
+Name   : CertPropSvc
+Status : Stopped
+Start  : Manual
+
+Name   : ClickToRunSvc
+Status : Running
+Start  : Automatic
+
+Name   : ClipSVC
+Status : Stopped
+Start  : Manual
+
+Name   : CloudBackupRestoreSvc_6b163b87
+Status : Stopped
+Start  : Manual
+
+Name   : COMSysApp
+Status : Stopped
+Start  : Manual
+
+Name   : ConsentUxUserSvc_6b163b87
+Status : Stopped
+Start  : Manual
+
+Name   : CoreMessagingRegistrar
+Status : Running
+Start  : Automatic
+
+Name   : CredentialEnrollmentManagerUserSvc_6b163b87
+Status : Stopped
+Start  : Manual
+
+Name   : CryptSvc
+Status : Running
+Start  : Automatic
+
+Name   : DcomLaunch
+Status : Running
+Start  : Automatic
+
+Name   : dcsvc
+Status : Stopped
+Start  : Manual
+
+Name   : defragsvc
+Status : Stopped
+Start  : Manual
+
+Name   : DeviceAssociationBrokerSvc_6b163b87
+Status : Stopped
+Start  : Manual
+
+Name   : DeviceAssociationService
+Status : Running
+Start  : Automatic
+
+Name   : DeviceInstall
+Status : Stopped
+Start  : Manual
+
+Name   : DevicePickerUserSvc_6b163b87
+Status : Stopped
+Start  : Manual
+
+Name   : DevicesFlowUserSvc_6b163b87
+Status : Running
+Start  : Manual
+
+Name   : DevQueryBroker
+Status : Running
+Start  : Manual
+
+Name   : Dhcp
+Status : Running
+Start  : Automatic
+
+Name   : diagsvc
+Status : Stopped
+Start  : Manual
+
+Name   : DiagTrack
+Status : Running
+Start  : Automatic
+
+Name   : DispBrokerDesktopSvc
+Status : Running
+Start  : Automatic
+
+Name   : DisplayEnhancementService
+Status : Running
+Start  : Manual
+
+Name   : DmEnrollmentSvc
+Status : Stopped
+Start  : Manual
+
+Name   : dmwappushservice
+Status : Stopped
+Start  : Manual
+
+Name   : Dnscache
+Status : Running
+Start  : Automatic
+
+Name   : DolbyDAXAPI
+Status : Running
+Start  : Automatic
+
+Name   : DoSvc
+Status : Running
+Start  : Automatic
+
+Name   : dot3svc
+Status : Stopped
+Start  : Manual
+
+Name   : DPS
+Status : Running
+Start  : Automatic
+
+Name   : DsmSvc
+Status : Stopped
+Start  : Manual
+
+Name   : DsSvc
+Status : Stopped
+Start  : Manual
+
+Name   : DusmSvc
+Status : Running
+Start  : Automatic
+
+Name   : EapHost
+Status : Stopped
+Start  : Manual
+
+Name   : edgeupdate
+Status : Stopped
+Start  : Automatic
+
+Name   : edgeupdatem
+Status : Stopped
+Start  : Manual
+
+Name   : EFS
+Status : Stopped
+Start  : Manual
+
+Name   : ElevocService
+Status : Running
+Start  : Automatic
+
+Name   : embeddedmode
+Status : Stopped
+Start  : Manual
+
+Name   : EntAppSvc
+Status : Stopped
+Start  : Manual
+
+Name   : EventLog
+Status : Running
+Start  : Automatic
+
+Name   : EventSystem
+Status : Running
+Start  : Automatic
+
+Name   : fdPHost
+Status : Stopped
+Start  : Manual
+
+Name   : FDResPub
+Status : Stopped
+Start  : Manual
+
+Name   : fhsvc
+Status : Stopped
+Start  : Manual
+
+Name   : FileSyncHelper
+Status : Running
+Start  : Manual
+
+Name   : FontCache
+Status : Running
+Start  : Automatic
+
+Name   : FrameServer
+Status : Running
+Start  : Manual
+
+Name   : FrameServerMonitor
+Status : Stopped
+Start  : Manual
+
+Name   : GameInputSvc
+Status : Stopped
+Start  : Manual
+
+Name   : GoogleChromeElevationService
+Status : Stopped
+Start  : Manual
+
+Name   : GoogleUpdaterInternalService150.0.7863.0
+Status : Stopped
+Start  : Automatic
+
+Name   : GoogleUpdaterService150.0.7863.0
+Status : Stopped
+Start  : Automatic
+
+Name   : gpsvc
+Status : Running
+Start  : Automatic
+
+Name   : GraphicsPerfSvc
+Status : Stopped
+Start  : Manual
+
+Name   : hidserv
+Status : Stopped
+Start  : Manual
+
+Name   : hpatchmon
+Status : Stopped
+Start  : Manual
+
+Name   : HvHost
+Status : Running
+Start  : Manual
+
+Name   : icssvc
+Status : Stopped
+Start  : Manual
+
+Name   : IKEEXT
+Status : Stopped
+Start  : Manual
+
+Name   : InstallService
+Status : Running
+Start  : Manual
+
+Name   : InventorySvc
+Status : Running
+Start  : Automatic
+
+Name   : iphlpsvc
+Status : Running
+Start  : Automatic
+
+Name   : IpxlatCfgSvc
+Status : Stopped
+Start  : Manual
+
+Name   : KeyIso
+Status : Running
+Start  : Manual
+
+Name   : KtmRm
+Status : Stopped
+Start  : Manual
+
+Name   : LanmanServer
+Status : Running
+Start  : Automatic
+
+Name   : LanmanWorkstation
+Status : Running
+Start  : Automatic
+
+Name   : LenovoFnAndFunctionKeys
+Status : Running
+Start  : Automatic
+
+Name   : LenovoVantageService
+Status : Running
+Start  : Automatic
+
+Name   : lfsvc
+Status : Running
+Start  : Manual
+
+Name   : LicenseManager
+Status : Running
+Start  : Manual
+
+Name   : LITSSVC
+Status : Running
+Start  : Automatic
+
+Name   : lltdsvc
+Status : Stopped
+Start  : Manual
+
+Name   : lmhosts
+Status : Running
+Start  : Manual
+
+Name   : LocalKdc
+Status : Stopped
+Start  : Automatic
+
+Name   : LSM
+Status : Running
+Start  : Automatic
+
+Name   : LxpSvc
+Status : Stopped
+Start  : Manual
+
+Name   : MapsBroker
+Status : Stopped
+Start  : Automatic
+
+Name   : McAfee Scheduled Task - (McAfee Scheduled Task - (mc-sustainability))
+Status : Stopped
+Start  : Manual
+
+Name   : McAfee WebAdvisor
+Status : Running
+Start  : Automatic
+
+Name   : mc-fw-host
+Status : Running
+Start  : Automatic
+
+Name   : McmSvc
+Status : Stopped
+Start  : Manual
+
+Name   : McpManagementService
+Status : Stopped
+Start  : Manual
+
+Name   : mc-wps-secdashboardservice
+Status : Running
+Start  : Manual
+
+Name   : mc-wps-update
+Status : Stopped
+Start  : Manual
+
+Name   : MDCoreSvc
+Status : Running
+Start  : Automatic
+
+Name   : MessagingService_6b163b87
+Status : Stopped
+Start  : Manual
+
+Name   : MicrosoftCopilotElevationService
+Status : Stopped
+Start  : Manual
+
+Name   : MicrosoftEdgeElevationService
+Status : Stopped
+Start  : Manual
+
+Name   : midisrv
+Status : Stopped
+Start  : Manual
+
+Name   : MozillaMaintenance
+Status : Stopped
+Start  : Manual
+
+Name   : mpssvc
+Status : Running
+Start  : Automatic
+
+Name   : MSDTC
+Status : Stopped
+Start  : Manual
+
+Name   : MSiSCSI
+Status : Stopped
+Start  : Manual
+
+Name   : msiserver
+Status : Stopped
+Start  : Manual
+
+Name   : MTKBTSVC
+Status : Running
+Start  : Automatic
+
+Name   : NaturalAuthentication
+Status : Stopped
+Start  : Manual
+
+Name   : NcaSvc
+Status : Stopped
+Start  : Manual
+
+Name   : NcbService
+Status : Running
+Start  : Manual
+
+Name   : NcdAutoSetup
+Status : Stopped
+Start  : Manual
+
+Name   : Netlogon
+Status : Stopped
+Start  : Manual
+
+Name   : Netman
+Status : Running
+Start  : Manual
+
+Name   : netprofm
+Status : Running
+Start  : Manual
+
+Name   : NetSetupSvc
+Status : Stopped
+Start  : Manual
+
+Name   : NetTcpPortSharing
+Status : Stopped
+Start  : Disabled
+
+Name   : NgcCtnrSvc
+Status : Running
+Start  : Manual
+
+Name   : NgcSvc
+Status : Running
+Start  : Manual
+
+Name   : NlaSvc
+Status : Stopped
+Start  : Manual
+
+Name   : NPSMSvc_6b163b87
+Status : Running
+Start  : Manual
+
+Name   : nsi
+Status : Running
+Start  : Automatic
+
+Name   : OneDrive Updater Service
+Status : Stopped
+Start  : Manual
+
+Name   : OneSyncSvc_6b163b87
+Status : Stopped
+Start  : Manual
+
+Name   : P9RdrService_6b163b87
+Status : Stopped
+Start  : Manual
+
+Name   : PcaSvc
+Status : Running
+Start  : Automatic
+
+Name   : PenService_6b163b87
+Status : Stopped
+Start  : Manual
+
+Name   : perceptionsimulation
+Status : Stopped
+Start  : Manual
+
+Name   : PerfHost
+Status : Stopped
+Start  : Manual
+
+Name   : PhoneSvc
+Status : Running
+Start  : Manual
+
+Name   : PimIndexMaintenanceSvc_6b163b87
+Status : Running
+Start  : Manual
+
+Name   : pla
+Status : Stopped
+Start  : Manual
+
+Name   : PlugPlay
+Status : Running
+Start  : Manual
+
+Name   : PolicyAgent
+Status : Running
+Start  : Manual
+
+Name   : Power
+Status : Running
+Start  : Automatic
+
+Name   : PrintDeviceConfigurationService
+Status : Stopped
+Start  : Manual
+
+Name   : PrintNotify
+Status : Stopped
+Start  : Manual
+
+Name   : PrintScanBrokerService
+Status : Stopped
+Start  : Manual
+
+Name   : PrintWorkflowUserSvc_6b163b87
+Status : Stopped
+Start  : Manual
+
+Name   : ProfSvc
+Status : Running
+Start  : Automatic
+
+Name   : PushToInstall
+Status : Stopped
+Start  : Manual
+
+Name   : QWAVE
+Status : Running
+Start  : Manual
+
+Name   : RasAuto
+Status : Stopped
+Start  : Manual
+
+Name   : RasMan
+Status : Running
+Start  : Manual
+
+Name   : refsdedupsvc
+Status : Stopped
+Start  : Manual
+
+Name   : RemoteAccess
+Status : Stopped
+Start  : Disabled
+
+Name   : RemoteRegistry
+Status : Stopped
+Start  : Disabled
+
+Name   : RetailDemo
+Status : Stopped
+Start  : Manual
+
+Name   : RmSvc
+Status : Running
+Start  : Manual
+
+Name   : RpcEptMapper
+Status : Running
+Start  : Automatic
+
+Name   : RpcLocator
+Status : Running
+Start  : Manual
+
+Name   : RpcSs
+Status : Running
+Start  : Automatic
+
+Name   : RtkAudioUniversalService
+Status : Running
+Start  : Automatic
+
+Name   : SamSs
+Status : Running
+Start  : Automatic
+
+Name   : SCardSvr
+Status : Stopped
+Start  : Manual
+
+Name   : ScDeviceEnum
+Status : Stopped
+Start  : Manual
+
+Name   : Schedule
+Status : Running
+Start  : Automatic
+
+Name   : SCPolicySvc
+Status : Stopped
+Start  : Manual
+
+Name   : SDRSVC
+Status : Stopped
+Start  : Manual
+
+Name   : seclogon
+Status : Stopped
+Start  : Manual
+
+Name   : SecurityHealthService
+Status : Running
+Start  : Manual
+
+Name   : SEMgrSvc
+Status : Stopped
+Start  : Manual
+
+Name   : SENS
+Status : Running
+Start  : Automatic
+
+Name   : SensorDataService
+Status : Stopped
+Start  : Manual
+
+Name   : SensorService
+Status : Stopped
+Start  : Manual
+
+Name   : SensrSvc
+Status : Stopped
+Start  : Manual
+
+Name   : SessionEnv
+Status : Stopped
+Start  : Manual
+
+Name   : SharedAccess
+Status : Stopped
+Start  : Manual
+
+Name   : ShellHWDetection
+Status : Running
+Start  : Automatic
+
+Name   : shpamsvc
+Status : Stopped
+Start  : Disabled
+
+Name   : smphost
+Status : Stopped
+Start  : Manual
+
+Name   : SmsRouter
+Status : Stopped
+Start  : Manual
+
+Name   : SNMPTrap
+Status : Stopped
+Start  : Manual
+
+Name   : Splunkd
+Status : Running
+Start  : Automatic
+
+Name   : Spooler
+Status : Running
+Start  : Automatic
+
+Name   : sppsvc
+Status : Stopped
+Start  : Automatic
+
+Name   : SSDPSRV
+Status : Running
+Start  : Manual
+
+Name   : ssh-agent
+Status : Stopped
+Start  : Disabled
+
+Name   : SstpSvc
+Status : Running
+Start  : Manual
+
+Name   : StateRepository
+Status : Running
+Start  : Automatic
+
+Name   : StiSvc
+Status : Running
+Start  : Automatic
+
+Name   : StorSvc
+Status : Running
+Start  : Automatic
+
+Name   : svsvc
+Status : Stopped
+Start  : Manual
+
+Name   : swprv
+Status : Stopped
+Start  : Manual
+
+Name   : SysMain
+Status : Running
+Start  : Automatic
+
+Name   : SystemEventsBroker
+Status : Running
+Start  : Automatic
+
+Name   : TapiSrv
+Status : Stopped
+Start  : Manual
+
+Name   : TermService
+Status : Stopped
+Start  : Manual
+
+Name   : TextInputManagementService
+Status : Running
+Start  : Automatic
+
+Name   : Themes
+Status : Running
+Start  : Automatic
+
+Name   : TieringEngineService
+Status : Stopped
+Start  : Manual
+
+Name   : TimeBrokerSvc
+Status : Running
+Start  : Manual
+
+Name   : TokenBroker
+Status : Running
+Start  : Manual
+
+Name   : TrkWks
+Status : Running
+Start  : Automatic
+
+Name   : TroubleshootingSvc
+Status : Stopped
+Start  : Manual
+
+Name   : TrustedInstaller
+Status : Stopped
+Start  : Manual
+
+Name   : tzautoupdate
+Status : Stopped
+Start  : Manual
+
+Name   : UDCService
+Status : Running
+Start  : Automatic
+
+Name   : UdkUserSvc_6b163b87
+Status : Running
+Start  : Manual
+
+Name   : UltraViewService
+Status : Running
+Start  : Automatic
+
+Name   : UmRdpService
+Status : Stopped
+Start  : Manual
+
+Name   : UnistoreSvc_6b163b87
+Status : Running
+Start  : Manual
+
+Name   : upnphost
+Status : Stopped
+Start  : Manual
+
+Name   : UserDataSvc_6b163b87
+Status : Running
+Start  : Manual
+
+Name   : UserManager
+Status : Running
+Start  : Automatic
+
+Name   : UsoSvc
+Status : Running
+Start  : Automatic
+
+Name   : VaultSvc
+Status : Running
+Start  : Manual
+
+Name   : VBoxSDS
+Status : Stopped
+Start  : Manual
+
+Name   : vds
+Status : Stopped
+Start  : Manual
+
+Name   : vmicguestinterface
+Status : Stopped
+Start  : Manual
+
+Name   : vmicheartbeat
+Status : Stopped
+Start  : Manual
+
+Name   : vmickvpexchange
+Status : Stopped
+Start  : Manual
+
+Name   : vmicrdv
+Status : Stopped
+Start  : Manual
+
+Name   : vmicshutdown
+Status : Stopped
+Start  : Manual
+
+Name   : vmictimesync
+Status : Stopped
+Start  : Manual
+
+Name   : vmicvmsession
+Status : Stopped
+Start  : Manual
+
+Name   : vmicvss
+Status : Stopped
+Start  : Manual
+
+Name   : VSS
+Status : Stopped
+Start  : Manual
+
+Name   : W32Time
+Status : Stopped
+Start  : Manual
+
+Name   : WaaSMedicSvc
+Status : Stopped
+Start  : Manual
+
+Name   : WalletService
+Status : Stopped
+Start  : Manual
+
+Name   : WarpJITSvc
+Status : Stopped
+Start  : Manual
+
+Name   : wbengine
+Status : Stopped
+Start  : Manual
+
+Name   : WbioSrvc
+Status : Stopped
+Start  : Manual
+
+Name   : Wcmsvc
+Status : Running
+Start  : Automatic
+
+Name   : wcncsvc
+Status : Stopped
+Start  : Manual
+
+Name   : WdiServiceHost
+Status : Running
+Start  : Manual
+
+Name   : WdiSystemHost
+Status : Running
+Start  : Manual
+
+Name   : WdNisSvc
+Status : Running
+Start  : Manual
+
+Name   : WebClient
+Status : Running
+Start  : Manual
+
+Name   : webthreatdefsvc
+Status : Running
+Start  : Manual
+
+Name   : webthreatdefusersvc_6b163b87
+Status : Running
+Start  : Automatic
+
+Name   : Wecsvc
+Status : Stopped
+Start  : Manual
+
+Name   : WEPHOSTSVC
+Status : Stopped
+Start  : Manual
+
+Name   : wercplsupport
+Status : Stopped
+Start  : Manual
+
+Name   : WerSvc
+Status : Stopped
+Start  : Manual
+
+Name   : WFDSConMgrSvc
+Status : Stopped
+Start  : Manual
+
+Name   : whesvc
+Status : Running
+Start  : Automatic
+
+Name   : WiaRpc
+Status : Stopped
+Start  : Manual
+
+Name   : WinDefend
+Status : Running
+Start  : Automatic
+
+Name   : WinHttpAutoProxySvc
+Status : Running
+Start  : Manual
+
+Name   : Winmgmt
+Status : Running
+Start  : Automatic
+
+Name   : WinRM
+Status : Stopped
+Start  : Manual
+
+Name   : wisvc
+Status : Stopped
+Start  : Manual
+
+Name   : WlanSvc
+Status : Running
+Start  : Automatic
+
+Name   : wlidsvc
+Status : Running
+Start  : Manual
+
+Name   : wlpasvc
+Status : Stopped
+Start  : Manual
+
+Name   : WManSvc
+Status : Stopped
+Start  : Manual
+
+Name   : wmiApSrv
+Status : Running
+Start  : Manual
+
+Name   : WMPNetworkSvc
+Status : Stopped
+Start  : Manual
+
+Name   : workfolderssvc
+Status : Stopped
+Start  : Manual
+
+Name   : WpcMonSvc
+Status : Stopped
+Start  : Manual
+
+Name   : WPDBusEnum
+Status : Stopped
+Start  : Manual
+
+Name   : WpnService
+Status : Running
+Start  : Automatic
+
+Name   : WpnUserService_6b163b87
+Status : Running
+Start  : Automatic
+
+Name   : WSAIFabricSvc
+Status : Running
+Start  : Automatic
+
+Name   : wscsvc
+Status : Running
+Start  : Automatic
+
+Name   : WSearch
+Status : Running
+Start  : Automatic
+
+Name   : wuauserv
+Status : Stopped
+Start  : Manual
+
+Name   : wuqisvc
+Status : Running
+Start  : Manual
+
+Name   : WwanSvc
+Status : Stopped
+Start  : Manual
+
+Name   : XblAuthManager
+Status : Stopped
+Start  : Manual
+
+Name   : XblGameSave
+Status : Stopped
+Start  : Manual
+
+Name   : XboxGipSvc
+Status : Stopped
+Start  : Manual
+
+Name   : XboxNetApiSvc
+Status : Stopped
+Start  : Manual
+
+
+SUSPICIOUS ALERTS:
+-----------------------------------------------------------------
+[MEDIUM] Suspicious auto-start service: FileSyncHelper | Start: Manual
+
+
+Total alerts: 1

@@ -1,0 +1,306 @@
+Suspicious Path Analysis Log
+Scan Time: 2026-06-17 11:04:46.251736
+=================================================================
+
+ALL PROCESS PATHS:
+-----------------------------------------------------------------
+PID:180 | Registry | Unknown | Registry
+PID:712 | smss.exe | Trusted | C:\Windows\System32\smss.exe
+PID:856 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:1168 | csrss.exe | Trusted | C:\Windows\System32\csrss.exe
+PID:1332 | wininit.exe | Trusted | C:\Windows\System32\wininit.exe
+PID:1480 | services.exe | Trusted | C:\Windows\System32\services.exe
+PID:1488 | LsaIso.exe | Trusted | C:\Windows\System32\LsaIso.exe
+PID:1508 | lsass.exe | Trusted | C:\Windows\System32\lsass.exe
+PID:1576 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:1644 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:1672 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:1680 | fontdrvhost.exe | Trusted | C:\Windows\System32\fontdrvhost.exe
+PID:1720 | WUDFHost.exe | Trusted | C:\Windows\System32\WUDFHost.exe
+PID:1760 | msedgewebview2.exe | Trusted | C:\Program Files (x86)\Microsoft\EdgeWebView\Application\149.0.4022.69\msedgewebview2.exe
+PID:1804 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:1872 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:1948 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:1968 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:2068 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:2096 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:2172 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:2184 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:2228 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:2236 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:2252 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:2320 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:2472 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:2504 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:2516 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:2524 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:2532 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:2560 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:2776 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:2788 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:2812 | UserOOBEBroker.exe | Trusted | C:\Windows\System32\oobe\UserOOBEBroker.exe
+PID:2844 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:2856 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:2888 | chrome.exe | Trusted | C:\Program Files\Google\Chrome\Application\chrome.exe
+PID:3120 | OpenConsole.exe | Unknown | D:\VS CODE\Microsoft VS Code\6928394f91\resources\app\node_modules\node-pty\build\Release\conpty\OpenConsole.exe
+PID:3156 | powershell.exe | Trusted | C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+PID:3192 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:3256 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:3284 | amdfendrsr.exe | Trusted | C:\Windows\System32\DriverStore\FileRepository\amdfendr.inf_amd64_987f8cede005f427\amdfendrsr.exe
+PID:3304 | atiesrxx.exe | Trusted | C:\Windows\System32\DriverStore\FileRepository\u0419944.inf_amd64_e8cfc9b2346618e0\B419488\atiesrxx.exe
+PID:3312 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:3396 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:3404 | smartscreen.exe | Trusted | C:\Windows\System32\smartscreen.exe
+PID:3464 | powershell.exe | Trusted | C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+PID:3560 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:3612 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:3628 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:3640 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:3652 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:3684 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:3704 | amdow.exe | Trusted | C:\Program Files\WindowsApps\AdvancedMicroDevicesInc-2.AMDRadeonSoftware_10.25.10201.0_x64__0a9344xs7nr4m\radeonsoftware\amdow.exe
+PID:3764 | audiodg.exe | Trusted | C:\Windows\System32\audiodg.exe
+PID:3808 | chrome.exe | Trusted | C:\Program Files\Google\Chrome\Application\chrome.exe
+PID:3812 | ApplicationFrameHost.exe | Trusted | C:\Windows\System32\ApplicationFrameHost.exe
+PID:3868 | Widgets.exe | Trusted | C:\Program Files\WindowsApps\MicrosoftWindows.Client.WebExperience_526.11701.50.0_x64__cw5n1h2txyewy\Dashboard\Widgets.exe
+PID:3900 | FileSyncHelper.exe | Trusted | C:\Program Files\Microsoft OneDrive\26.095.0519.0003\FileSyncHelper.exe
+PID:3912 | MemCompression | Unknown | MemCompression
+PID:3924 | cncmd.exe | Trusted | C:\Program Files\WindowsApps\AdvancedMicroDevicesInc-2.AMDRadeonSoftware_10.25.10201.0_x64__0a9344xs7nr4m\radeonsoftware\cncmd.exe
+PID:3988 | dasHost.exe | Trusted | C:\Windows\System32\dasHost.exe
+PID:4020 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:4160 | ShellExperienceHost.exe | Trusted | C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe
+PID:4168 | dasHost.exe | Trusted | C:\Windows\System32\dasHost.exe
+PID:4220 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:4228 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:4248 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:4288 | msedgewebview2.exe | Trusted | C:\Program Files (x86)\Microsoft\EdgeWebView\Application\149.0.4022.69\msedgewebview2.exe
+PID:4304 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:4348 | Locator.exe | Trusted | C:\Windows\System32\Locator.exe
+PID:4376 | LenovoUtilityService.exe | Trusted | C:\Windows\System32\DriverStore\FileRepository\lenovofnandfunctionkeys.inf_amd64_5e21bf389d23855a\LenovoUtilityService.exe
+PID:4416 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:4508 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:4540 | servicehost.exe | Trusted | C:\Program Files\McAfee\WebAdvisor\servicehost.exe
+PID:4568 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:4576 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:4624 | chrome.exe | Trusted | C:\Program Files\Google\Chrome\Application\chrome.exe
+PID:4696 | spoolsv.exe | Trusted | C:\Windows\System32\spoolsv.exe
+PID:4704 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:4732 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:4772 | msedgewebview2.exe | Trusted | C:\Program Files (x86)\Microsoft\EdgeWebView\Application\149.0.4022.69\msedgewebview2.exe
+PID:4844 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:4860 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:4876 | LenovoVantageService.exe | Trusted | C:\Program Files (x86)\Lenovo\VantageService\4.2601.31.0\LenovoVantageService.exe
+PID:4916 | pet.exe | Unknown | C:\Users\BHUKAILASH\.vscode\extensions\ms-python.vscode-python-envs-1.34.0-win32-x64\python-env-tools\bin\pet.exe
+PID:5012 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:5020 | DAX3API.exe | Trusted | C:\Windows\System32\DriverStore\FileRepository\dax3_swc_aposvc.inf_amd64_3a19d2a71a27e2b3\DAX3API.exe
+PID:5036 | armsvc.exe | Trusted | C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\armsvc.exe
+PID:5052 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:5076 | ElevocControlService.exe | Trusted | C:\Windows\System32\ElevocInstallDriver\ElevocControlService.exe
+PID:5088 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:5108 | LNBITSSvc.exe | Trusted | C:\Windows\System32\LNBITSSvc.exe
+PID:5192 | MpDefenderCoreService.exe | Unknown | C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26050.15-0\MpDefenderCoreService.exe
+PID:5284 | mtkbtsvc.exe | Trusted | C:\Windows\System32\mtkbtsvc.exe
+PID:5292 | RtkAudUService64.exe | Trusted | C:\Windows\System32\DriverStore\FileRepository\realtekservice.inf_amd64_9873da36e3c839c5\RtkAudUService64.exe
+PID:5300 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:5312 | UltraViewer_Service.exe | Trusted | C:\Program Files (x86)\UltraViewer\UltraViewer_Service.exe
+PID:5384 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:5412 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:5476 | mc-fw-host.exe | Trusted | C:\Program Files\McAfee\wps\1.39.160.1\mc-fw-host.exe
+PID:5512 | mscopilot.exe | Trusted | C:\Program Files (x86)\Microsoft\Copilot\Application\mscopilot.exe
+PID:5528 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:5628 | powershell.exe | Trusted | C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+PID:5688 | LenovoVantage-(GenericMessagingAddin).exe | Trusted | C:\Program Files (x86)\Lenovo\VantageService\4.2601.31.0\LenovoVantage-(GenericMessagingAddin).exe
+PID:5720 | MsMpEng.exe | Unknown | C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26050.15-0\MsMpEng.exe
+PID:5960 | splunkd.exe | Trusted | C:\Program Files\Splunk\bin\splunkd.exe
+PID:6100 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:6564 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:6624 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:6732 | unsecapp.exe | Trusted | C:\Windows\System32\wbem\unsecapp.exe
+PID:6880 | winlogon.exe | Trusted | C:\Windows\System32\winlogon.exe
+PID:6884 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:6924 | conhost.exe | Trusted | C:\Windows\System32\conhost.exe
+PID:6940 | taskhostw.exe | Trusted | C:\Windows\System32\taskhostw.exe
+PID:7076 | wps.exe | Unknown | C:\Users\BHUKAILASH\AppData\Local\Kingsoft\WPS Office\12.1.0.26880\office6\wps.exe
+PID:7080 | OpenConsole.exe | Unknown | D:\VS CODE\Microsoft VS Code\6928394f91\resources\app\node_modules\node-pty\build\Release\conpty\OpenConsole.exe
+PID:7116 | OpenConsole.exe | Unknown | D:\VS CODE\Microsoft VS Code\6928394f91\resources\app\node_modules\node-pty\build\Release\conpty\OpenConsole.exe
+PID:7188 | chrome.exe | Trusted | C:\Program Files\Google\Chrome\Application\chrome.exe
+PID:7208 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:7456 | WmiPrvSE.exe | Trusted | C:\Windows\System32\wbem\WmiPrvSE.exe
+PID:7512 | FnHotkeyUtility.exe | Trusted | C:\Windows\System32\DriverStore\FileRepository\lenovofnandfunctionkeys.inf_amd64_5e21bf389d23855a\FnHotkeyUtility.exe
+PID:7744 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:7988 | wlanext.exe | Trusted | C:\Windows\System32\wlanext.exe
+PID:8036 | ctfmon.exe | Trusted | C:\Windows\System32\ctfmon.exe
+PID:8044 | msedgewebview2.exe | Trusted | C:\Program Files (x86)\Microsoft\EdgeWebView\Application\149.0.4022.69\msedgewebview2.exe
+PID:8056 | AppProvisioningPlugin.exe | Unknown | C:\ProgramData\Lenovo\Udc\Hosts\x64\AppProvisioningPlugin.exe
+PID:8108 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:8264 | chrome.exe | Trusted | C:\Program Files\Google\Chrome\Application\chrome.exe
+PID:8444 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:8468 | chrome.exe | Trusted | C:\Program Files\Google\Chrome\Application\chrome.exe
+PID:8472 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:8572 | SearchIndexer.exe | Trusted | C:\Windows\System32\SearchIndexer.exe
+PID:8656 | msedge.exe | Trusted | C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID:8872 | AggregatorHost.exe | Trusted | C:\Windows\System32\AggregatorHost.exe
+PID:8984 | msedge.exe | Trusted | C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID:9016 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:9096 | NgcIso.exe | Trusted | C:\Windows\System32\NgcIso.exe
+PID:9156 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:9284 | chrome.exe | Trusted | C:\Program Files\Google\Chrome\Application\chrome.exe
+PID:9432 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:9520 | RtkAudUService64.exe | Trusted | C:\Windows\System32\DriverStore\FileRepository\realtekservice.inf_amd64_9873da36e3c839c5\RtkAudUService64.exe
+PID:9792 | fontdrvhost.exe | Trusted | C:\Windows\System32\fontdrvhost.exe
+PID:9936 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:10072 | NisSrv.exe | Unknown | C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26050.15-0\NisSrv.exe
+PID:10416 | WhatsApp.Root.exe | Trusted | C:\Program Files\WindowsApps\5319275A.WhatsAppDesktop_2.2620.102.0_x64__cv1g1gvanyjgm\WhatsApp.Root.exe
+PID:10616 | msedgewebview2.exe | Trusted | C:\Program Files (x86)\Microsoft\EdgeWebView\Application\149.0.4022.69\msedgewebview2.exe
+PID:10632 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:10636 | Code.exe | Unknown | D:\VS CODE\Microsoft VS Code\Code.exe
+PID:10888 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:11272 | splunk-supervisor.exe | Trusted | C:\Program Files\Splunk\bin\splunk-supervisor.exe
+PID:11344 | RuntimeBroker.exe | Trusted | C:\Windows\System32\RuntimeBroker.exe
+PID:11404 | msedgewebview2.exe | Trusted | C:\Program Files (x86)\Microsoft\EdgeWebView\Application\149.0.4022.69\msedgewebview2.exe
+PID:11956 | promecefpluginhost.exe | Unknown | C:\Users\BHUKAILASH\AppData\Local\Kingsoft\WPS Office\12.1.0.26880\office6\promecefpluginhost.exe
+PID:11960 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:12240 | unsecapp.exe | Trusted | C:\Windows\System32\wbem\unsecapp.exe
+PID:12256 | TextInputHost.exe | Trusted | C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe
+PID:12268 | Code.exe | Unknown | D:\VS CODE\Microsoft VS Code\Code.exe
+PID:12328 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:12340 | UDClientService.exe | Trusted | C:\Windows\System32\drivers\Lenovo\udc\Service\UDClientService.exe
+PID:13044 | WmiPrvSE.exe | Trusted | C:\Windows\System32\wbem\WmiPrvSE.exe
+PID:13076 | taskhostw.exe | Trusted | C:\Windows\System32\taskhostw.exe
+PID:13124 | msedge.exe | Trusted | C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID:13248 | chrome.exe | Trusted | C:\Program Files\Google\Chrome\Application\chrome.exe
+PID:13300 | chrome.exe | Trusted | C:\Program Files\Google\Chrome\Application\chrome.exe
+PID:13884 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:14272 | msedgewebview2.exe | Trusted | C:\Program Files (x86)\Microsoft\EdgeWebView\Application\149.0.4022.69\msedgewebview2.exe
+PID:14288 | SecurityHealthSystray.exe | Trusted | C:\Windows\System32\SecurityHealthSystray.exe
+PID:14296 | msedge.exe | Trusted | C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID:14368 | OneDrive.exe | Trusted | C:\Program Files\Microsoft OneDrive\OneDrive.exe
+PID:14444 | chrome.exe | Trusted | C:\Program Files\Google\Chrome\Application\chrome.exe
+PID:14464 | FileCoAuth.exe | Trusted | C:\Program Files\Microsoft OneDrive\26.095.0519.0003\FileCoAuth.exe
+PID:14508 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:14516 | Code.exe | Unknown | D:\VS CODE\Microsoft VS Code\Code.exe
+PID:14556 | LenovoVantage-(VantageCoreAddin).exe | Trusted | C:\Program Files (x86)\Lenovo\VantageService\4.2601.31.0\LenovoVantage-(VantageCoreAddin).exe
+PID:14640 | mc-fw-host.exe | Trusted | C:\Program Files\McAfee\wps\1.39.160.1\mc-fw-host.exe
+PID:14736 | OfficeClickToRun.exe | Trusted | C:\Program Files\Common Files\microsoft shared\ClickToRun\OfficeClickToRun.exe
+PID:14748 | RtkAudUService64.exe | Trusted | C:\Windows\System32\DriverStore\FileRepository\realtekservice.inf_amd64_9873da36e3c839c5\RtkAudUService64.exe
+PID:14800 | conhost.exe | Trusted | C:\Windows\System32\conhost.exe
+PID:14868 | explorer.exe | Trusted | C:\Windows\explorer.exe
+PID:14928 | mscopilot.exe | Trusted | C:\Program Files (x86)\Microsoft\Copilot\Application\mscopilot.exe
+PID:15068 | msedgewebview2.exe | Trusted | C:\Program Files (x86)\Microsoft\EdgeWebView\Application\149.0.4022.69\msedgewebview2.exe
+PID:15288 | csrss.exe | Trusted | C:\Windows\System32\csrss.exe
+PID:15292 | msedge.exe | Trusted | C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID:15472 | chrome.exe | Trusted | C:\Program Files\Google\Chrome\Application\chrome.exe
+PID:15544 | powershell.exe | Trusted | C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+PID:15548 | chrome.exe | Trusted | C:\Program Files\Google\Chrome\Application\chrome.exe
+PID:15732 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:15884 | backgroundTaskHost.exe | Trusted | C:\Windows\System32\backgroundTaskHost.exe
+PID:15908 | OpenConsole.exe | Unknown | D:\VS CODE\Microsoft VS Code\6928394f91\resources\app\node_modules\node-pty\build\Release\conpty\OpenConsole.exe
+PID:15952 | msedge.exe | Trusted | C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID:15996 | RuntimeBroker.exe | Trusted | C:\Windows\System32\RuntimeBroker.exe
+PID:16312 | msedge.exe | Trusted | C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID:16424 | SecurityHealthService.exe | Trusted | C:\Windows\System32\SecurityHealthService.exe
+PID:16572 | AppActions.exe | Trusted | C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\AppActions.exe
+PID:16744 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:16908 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:16940 | RuntimeBroker.exe | Trusted | C:\Windows\System32\RuntimeBroker.exe
+PID:16964 | ai.exe | Trusted | C:\Program Files\Microsoft Office\root\vfs\ProgramFilesCommonX64\Microsoft Shared\Office16\AI\ai.exe
+PID:17096 | Code.exe | Unknown | D:\VS CODE\Microsoft VS Code\Code.exe
+PID:17240 | msedgewebview2.exe | Trusted | C:\Program Files (x86)\Microsoft\EdgeWebView\Application\149.0.4022.69\msedgewebview2.exe
+PID:17532 | msedgewebview2.exe | Trusted | C:\Program Files (x86)\Microsoft\EdgeWebView\Application\149.0.4022.69\msedgewebview2.exe
+PID:17612 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:17656 | msedge.exe | Trusted | C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID:17756 | mscopilot.exe | Trusted | C:\Program Files (x86)\Microsoft\Copilot\Application\mscopilot.exe
+PID:17764 | python.exe | Unknown | C:\Users\BHUKAILASH\AppData\Local\Python\pythoncore-3.14-64\python.exe
+PID:17836 | RadeonSoftware.exe | Trusted | C:\Program Files\WindowsApps\AdvancedMicroDevicesInc-2.AMDRadeonSoftware_10.25.10201.0_x64__0a9344xs7nr4m\radeonsoftware\RadeonSoftware.exe
+PID:17844 | chrome.exe | Trusted | C:\Program Files\Google\Chrome\Application\chrome.exe
+PID:17860 | OpenConsole.exe | Unknown | D:\VS CODE\Microsoft VS Code\6928394f91\resources\app\node_modules\node-pty\build\Release\conpty\OpenConsole.exe
+PID:17876 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:18100 | WINWORD.EXE | Trusted | C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE
+PID:18336 | SnippingTool.exe | Trusted | C:\Program Files\WindowsApps\Microsoft.ScreenSketch_11.2602.49.0_x64__8wekyb3d8bbwe\SnippingTool\SnippingTool.exe
+PID:18472 | WidgetService.exe | Trusted | C:\Program Files\WindowsApps\Microsoft.WidgetsPlatformRuntime_1.6.19.0_x64__8wekyb3d8bbwe\WidgetService\WidgetService.exe
+PID:18520 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:18584 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:18604 | splunkd.exe | Trusted | C:\Program Files\Splunk\bin\splunkd.exe
+PID:18708 | mscopilot.exe | Trusted | C:\Program Files (x86)\Microsoft\Copilot\Application\mscopilot.exe
+PID:18736 | CrossDeviceResume.exe | Trusted | C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\CrossDeviceResume.exe
+PID:18752 | ipc_broker.exe | Trusted | C:\Program Files\Splunk\var\run\supervisor\pkg-run\pkg-ipc_broker1755014732\ipc_broker.exe
+PID:18876 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:18944 | python3.13.exe | Trusted | C:\Program Files\Splunk\bin\python3.13.exe
+PID:18960 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:19048 | chrome.exe | Trusted | C:\Program Files\Google\Chrome\Application\chrome.exe
+PID:19120 | Code.exe | Unknown | D:\VS CODE\Microsoft VS Code\Code.exe
+PID:19144 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:19196 | msedgewebview2.exe | Trusted | C:\Program Files (x86)\Microsoft\EdgeWebView\Application\149.0.4022.69\msedgewebview2.exe
+PID:19228 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:19304 | sihost.exe | Trusted | C:\Windows\System32\sihost.exe
+PID:19660 | powershell.exe | Trusted | C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+PID:19876 | FnHotkeyCapsLKNumLK.exe | Trusted | C:\Windows\System32\DriverStore\FileRepository\lenovofnandfunctionkeys.inf_amd64_5e21bf389d23855a\FnHotkeyCapsLKNumLK.exe
+PID:20224 | mscopilot.exe | Trusted | C:\Program Files (x86)\Microsoft\Copilot\Application\mscopilot.exe
+PID:20284 | WmiApSrv.exe | Trusted | C:\Windows\System32\wbem\WmiApSrv.exe
+PID:21076 | dwm.exe | Trusted | C:\Windows\System32\dwm.exe
+PID:21156 | AMDRSSrcExt.exe | Trusted | C:\Program Files\WindowsApps\AdvancedMicroDevicesInc-2.AMDRadeonSoftware_10.25.10201.0_x64__0a9344xs7nr4m\radeonsoftware\AMDRSSrcExt.exe
+PID:21188 | OpenConsole.exe | Unknown | D:\VS CODE\Microsoft VS Code\6928394f91\resources\app\node_modules\node-pty\build\Release\conpty\OpenConsole.exe
+PID:21228 | promecefpluginhost.exe | Unknown | C:\Users\BHUKAILASH\AppData\Local\Kingsoft\WPS Office\12.1.0.26880\office6\promecefpluginhost.exe
+PID:21252 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:21484 | Code.exe | Unknown | D:\VS CODE\Microsoft VS Code\Code.exe
+PID:21632 | Code.exe | Unknown | D:\VS CODE\Microsoft VS Code\Code.exe
+PID:21708 | conhost.exe | Trusted | C:\Windows\System32\conhost.exe
+PID:21748 | MessagingPlugin.exe | Unknown | C:\ProgramData\Lenovo\Udc\Hosts\x64\MessagingPlugin.exe
+PID:21952 | msedgewebview2.exe | Trusted | C:\Program Files (x86)\Microsoft\EdgeWebView\Application\149.0.4022.69\msedgewebview2.exe
+PID:22120 | SearchHost.exe | Trusted | C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe
+PID:22176 | AutoModeDetect.exe | Trusted | C:\Windows\System32\AutoModeDetect.exe
+PID:22200 | Code.exe | Unknown | D:\VS CODE\Microsoft VS Code\Code.exe
+PID:22468 | PushNotificationsLongRunningTask.exe | Trusted | C:\Program Files\WindowsApps\MicrosoftCorporationII.WinAppRuntime.Singleton_8002.1.3.0_x64__8wekyb3d8bbwe\PushNotificationsLongRunningTask.exe
+PID:22532 | unsecapp.exe | Trusted | C:\Windows\System32\wbem\unsecapp.exe
+PID:22592 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:22688 | SearchFilterHost.exe | Trusted | C:\Windows\System32\SearchFilterHost.exe
+PID:22792 | conhost.exe | Trusted | C:\Windows\System32\conhost.exe
+PID:22832 | SearchProtocolHost.exe | Trusted | C:\Windows\System32\SearchProtocolHost.exe
+PID:23040 | mc-neo-host.exe | Unknown | C:\ProgramData\McAfee\wps\content\neo-core\26.5.0.127\mc-neo-host.exe
+PID:23100 | OpenConsole.exe | Unknown | D:\VS CODE\Microsoft VS Code\6928394f91\resources\app\node_modules\node-pty\build\Release\conpty\OpenConsole.exe
+PID:23116 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:23476 | SearchFilterHost.exe | Trusted | C:\Windows\System32\SearchFilterHost.exe
+PID:23500 | ShellHost.exe | Trusted | C:\Windows\System32\ShellHost.exe
+PID:23616 | Code.exe | Unknown | D:\VS CODE\Microsoft VS Code\Code.exe
+PID:23644 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:23648 | powershell.exe | Trusted | C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+PID:23712 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:23884 | AMDRSServ.exe | Trusted | C:\Program Files\WindowsApps\AdvancedMicroDevicesInc-2.AMDRadeonSoftware_10.25.10201.0_x64__0a9344xs7nr4m\radeonsoftware\AMDRSServ.exe
+PID:24036 | atieclxx.exe | Trusted | C:\Windows\System32\DriverStore\FileRepository\u0419944.inf_amd64_e8cfc9b2346618e0\B419488\atieclxx.exe
+PID:24100 | msedgewebview2.exe | Trusted | C:\Program Files (x86)\Microsoft\EdgeWebView\Application\149.0.4022.69\msedgewebview2.exe
+PID:24276 | wpscloudsvr.exe | Unknown | C:\Users\BHUKAILASH\AppData\Local\Kingsoft\WPS Office\12.1.0.26880\office6\wpscloudsvr.exe
+PID:24296 | chrome.exe | Trusted | C:\Program Files\Google\Chrome\Application\chrome.exe
+PID:24428 | RuntimeBroker.exe | Trusted | C:\Windows\System32\RuntimeBroker.exe
+PID:24544 | LenovoVantage-(LenovoMachineFixSystemAddin).exe | Trusted | C:\Program Files (x86)\Lenovo\VantageService\4.2601.31.0\LenovoVantage-(LenovoMachineFixSystemAddin).exe
+PID:24624 | mc-wps-secdashboardservice.exe | Trusted | C:\Program Files\McAfee\wps\mok\mc-wps-secdashboardservice.exe
+PID:24720 | uihost.exe | Trusted | C:\Program Files\McAfee\WebAdvisor\uihost.exe
+PID:24748 | chrome.exe | Trusted | C:\Program Files\Google\Chrome\Application\chrome.exe
+PID:24840 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:24900 | msedgewebview2.exe | Trusted | C:\Program Files (x86)\Microsoft\EdgeWebView\Application\149.0.4022.69\msedgewebview2.exe
+PID:25000 | conhost.exe | Trusted | C:\Windows\System32\conhost.exe
+PID:25016 | SystemSettings.exe | Trusted | C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+PID:25356 | msedgewebview2.exe | Trusted | C:\Program Files (x86)\Microsoft\EdgeWebView\Application\149.0.4022.69\msedgewebview2.exe
+PID:25424 | powershell.exe | Trusted | C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+PID:25548 | svchost.exe | Trusted | C:\Windows\System32\svchost.exe
+PID:25704 | msedgewebview2.exe | Trusted | C:\Program Files (x86)\Microsoft\EdgeWebView\Application\149.0.4022.69\msedgewebview2.exe
+PID:25844 | msedgewebview2.exe | Trusted | C:\Program Files (x86)\Microsoft\EdgeWebView\Application\149.0.4022.69\msedgewebview2.exe
+PID:26044 | RuntimeBroker.exe | Trusted | C:\Windows\System32\RuntimeBroker.exe
+PID:26092 | msedge.exe | Trusted | C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+PID:26796 | Code.exe | Unknown | D:\VS CODE\Microsoft VS Code\Code.exe
+PID:26804 | StartMenuExperienceHost.exe | Trusted | C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe
+PID:27004 | RuntimeBroker.exe | Trusted | C:\Windows\System32\RuntimeBroker.exe
+PID:27088 | chrome.exe | Trusted | C:\Program Files\Google\Chrome\Application\chrome.exe
+PID:27456 | msedgewebview2.exe | Trusted | C:\Program Files (x86)\Microsoft\EdgeWebView\Application\149.0.4022.69\msedgewebview2.exe
+PID:27508 | CrossDeviceService.exe | Trusted | C:\Program Files\WindowsApps\MicrosoftWindows.CrossDevice_1.26042.110.0_x64__cw5n1h2txyewy\CrossDeviceService.exe
+PID:27572 | msedgewebview2.exe | Trusted | C:\Program Files (x86)\Microsoft\EdgeWebView\Application\149.0.4022.69\msedgewebview2.exe
+
+
+SUSPICIOUS PATH ALERTS:
+-----------------------------------------------------------------
+No suspicious paths found.
+
+SUMMARY:
+Trusted    : 258
+Unknown    : 31
+Suspicious : 0
+Total      : 289

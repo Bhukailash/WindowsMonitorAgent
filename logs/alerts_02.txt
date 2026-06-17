@@ -1,0 +1,12 @@
+Day 7 - Alert System Log
+Scan Time: 2026-06-17 11:14:48.846128
+=================================================================
+
+[MEDIUM] [11:14:48] High memory usage: MemCompression (PID:3912) — 548MB
+[MEDIUM] [11:14:48] High memory usage: Code.exe (PID:23160) — 568MB
+[MEDIUM] [11:14:48] High memory usage: Code.exe (PID:24512) — 545MB
+[LOW] [11:14:48] Many instances of msedgewebview2.exe running: 19 copies
+[LOW] [11:14:48] Many instances of chrome.exe running: 17 copies
+
+HIGH: 0 | MEDIUM: 3 | LOW: 2
+Total alerts: 5

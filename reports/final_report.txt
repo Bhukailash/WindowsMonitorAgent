@@ -1,0 +1,15 @@
+WINDOWS MONITOR AGENT — FINAL DETECTION REPORT
+Generated: 2026-06-17 11:06:02.258867
+=================================================================
+
+STATISTICS:
+  Processes : 292
+  Services  : 283
+  HIGH      : 0
+  MEDIUM    : 1
+  LOW       : 0
+  Total     : 1
+
+ALERTS:
+-----------------------------------------------------------------
+[MEDIUM] [11:06:00] [MEMORY] Code.exe (PID:17096) — 519MB
